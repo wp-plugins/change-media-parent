@@ -2,7 +2,7 @@
 Contributors: pantsonhead
 Tags: media, library, attachment, parent, post, edit, alter, change
 Requires at least: 3.0
-Tested up to: 3.2.1
+Tested up to: 4.2.3
 Stable tag: trunk
 
 Allows editors to change the parent post of an attachment after it has been set.
@@ -28,6 +28,10 @@ This plugin does not currently offer this option. You may wish to try this plugi
 
 
 == Changelog ==
+
+= v0.2 2015-08-02 =
+
+* fixed PHP Warning for $detached
 
 = v0.1 2012-09-17 =
 
